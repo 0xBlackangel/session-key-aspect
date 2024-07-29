@@ -1,6 +1,6 @@
 # Abstract
 
-**Sesscion-Key Aspect** allows EoA to extend several sub-keys named **Session Key**.
+**Sesscion-Key Aspect** allows EoA to extend several sub-keys named **Session Key**..
 
 Session keys are able to **stand in for** EoA private key to sign a **specific transaction**. These keys will automatically expire at the block height, which is set by EoA. They are also limited to sign specific transactions, calling only specific smart contract methods.
 
